@@ -2,8 +2,6 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Media;
-using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -13,7 +11,7 @@ namespace ConsoleApp
     {
         private readonly Repo _repo = new Repo();
         public void Run()
-        { 
+        {
             //Intro
             string lineBreak = "----------------------------------------------------------------------------------------";
             Console.WriteLine("Hello! Welcome to the Game of War!\n" +
@@ -45,7 +43,7 @@ namespace ConsoleApp
             Console.Clear();
 
             //Start Game
-            var firstCard =_repo.StartGame();
+            var firstCard = _repo.StartGame();
             Console.WriteLine("Okay " + nameOne + ", time for you to draw your first card. Just reach through the screen or something. \n" +
                 "Okay, I am kidding obviously! I will hand you your card. \n" +
                 lineBreak + "\n" +
@@ -107,19 +105,8 @@ namespace ConsoleApp
 
             Console.WriteLine(lineBreak + "\n" +
                 "Alright! That's all for now. See you again soon!");
-
-
-            
-          
-
-
-
-
-
-
-
-
         }
 
     }
 }
+

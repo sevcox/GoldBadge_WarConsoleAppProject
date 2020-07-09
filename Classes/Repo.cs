@@ -62,7 +62,7 @@ namespace Classes
 
             foreach (KeyValuePair<string, int> keyValuePair in _faceAndValue)
             {
-                _faces.Add(keyValuePair.Key);
+                _faces.Add(keyValuePair.Key); 
             }
         }
         public string EvaluteWinner(string faceOne,  string faceTwo)

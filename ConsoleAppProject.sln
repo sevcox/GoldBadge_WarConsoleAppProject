@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "BlackJackConsoleApp\ConsoleApp.csproj", "{12C2AE81-7DE2-42BE-862B-28EC2E3B453F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{67ABCFD1-51F1-45E5-AA7F-CCEEA62D90CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{1103D3C1-913F-4391-B41A-72E0B83971B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{12C2AE81-7DE2-42BE-862B-28EC2E3B453F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12C2AE81-7DE2-42BE-862B-28EC2E3B453F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12C2AE81-7DE2-42BE-862B-28EC2E3B453F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12C2AE81-7DE2-42BE-862B-28EC2E3B453F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{67ABCFD1-51F1-45E5-AA7F-CCEEA62D90CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{67ABCFD1-51F1-45E5-AA7F-CCEEA62D90CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67ABCFD1-51F1-45E5-AA7F-CCEEA62D90CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67ABCFD1-51F1-45E5-AA7F-CCEEA62D90CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1103D3C1-913F-4391-B41A-72E0B83971B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1103D3C1-913F-4391-B41A-72E0B83971B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1103D3C1-913F-4391-B41A-72E0B83971B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1103D3C1-913F-4391-B41A-72E0B83971B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

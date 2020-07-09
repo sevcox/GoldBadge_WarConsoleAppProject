@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{12C2AE81-7DE2-42BE-862B-28EC2E3B453F}</ProjectGuid>
+    <ProjectGuid>{1103D3C1-913F-4391-B41A-72E0B83971B9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BlackJackConsoleApp</RootNamespace>
-    <AssemblyName>BlackJackConsoleApp</AssemblyName>
+    <RootNamespace>ConsoleApp</RootNamespace>
+    <AssemblyName>ConsoleApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
