@@ -8,6 +8,7 @@ namespace Classes
 {
     public class Card
     {
+
         public string Face;
         public string Suit;
 

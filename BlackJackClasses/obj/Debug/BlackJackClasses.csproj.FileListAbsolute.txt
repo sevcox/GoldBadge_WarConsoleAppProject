@@ -1,2 +1,0 @@
-C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppProject\BlackJackClasses\obj\Debug\BlackJackClasses.csprojAssemblyReference.cache
-C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppProject\BlackJackClasses\obj\Debug\BlackJackClasses.csproj.CoreCompileInputs.cache

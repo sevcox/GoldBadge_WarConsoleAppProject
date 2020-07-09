@@ -65,7 +65,6 @@ namespace ConsoleApp
             //War Champion
             Console.WriteLine("Now you have probably already figured out the winner. But just for kicks and giggles... THE WAR CHAMPION IS... \n" +
                 lineBreak);
-            // var value = _repo.EvaluateCard(_deck[2].Face);
             var faceOne = firstCard.Face;
             var faceTwo = secondCard.Face;
 

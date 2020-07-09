@@ -11,9 +11,7 @@ namespace Classes
     public class Deck
     {
         //Fields which are essentially properties just more private for the developer
-        private readonly Repo _repo = new Repo();
-        //private readonly string[] _faces = new string[] { "Ace", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King" };
-        
+        private readonly Repo _repo = new Repo(); 
         private readonly string[] _suits = new string[] { "Hearts", "Spades", "Clubs", "Diamonds" };
         private readonly Card[] _deck = new Card[52];
         private readonly Random _randomcard = new Random();
