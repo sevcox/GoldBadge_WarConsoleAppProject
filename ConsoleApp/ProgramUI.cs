@@ -6,7 +6,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleApp
-{
+
+{ 
     public class ProgramUI
     {
         private readonly Repo _repo = new Repo();
@@ -80,7 +81,6 @@ namespace ConsoleApp
                     lineBreak + "\n" +
                     "Who am I kidding? There is always a winner! Play again!");
             }
-
             //Closing Remarks
             Console.WriteLine("Winner, press enter to see your prize!");
             Console.ReadLine();
